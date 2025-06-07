@@ -20,7 +20,7 @@ A **blockchain** is a decentralized, distributed ledger technology where data is
 ### 2. Block Anatomy
 
 #### 📦 Diagram of a Block:
-![Block Structure Diagram](images/graphviz.svg)
+![Block Structure Diagram](graphviz.svg)
 
 #### 🧪 Merkle Root and Data Integrity:
 
